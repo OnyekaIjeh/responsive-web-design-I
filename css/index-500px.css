@@ -25,4 +25,21 @@
   .main-section article {
     margin-bottom: 40px;
   }
+
+  /* services.html  */
+  .services-list>* {
+    width: 100%;
+  }
+  .sub-section>* {
+    width: 100%;
+  }
+  .sub-section-details {
+    order: 1;
+  }
+  .sub-section-images {
+    order: 0;
+  }
+  .services-info-img {
+    margin-bottom: 40px;
+  }
 }
