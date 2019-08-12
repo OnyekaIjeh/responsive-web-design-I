@@ -4,6 +4,7 @@
   }
   .header-section-1 ul {
     flex-wrap: wrap;
+    margin-bottom: 40px;
   }
   .header-section-1 ul li {
     display: block;
