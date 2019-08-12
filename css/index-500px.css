@@ -1,0 +1,28 @@
+@media (max-width: 500px) {
+  .header-section-1 ul {
+    flex-wrap: wrap;
+  }
+  .header-section-1 ul li {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    border-top: 2px solid lightgrey;
+  }
+  .header-section-1 ul:last-child {
+    border-bottom: 2px solid lightgrey;
+  }
+  .main-section {
+    padding-bottom: 0;
+  }
+  .main-section section {
+    flex-wrap: wrap;
+  }
+  .main-section section>* {
+    display: block;
+    width: 100%;
+  }
+  .main-section article {
+    margin-bottom: 40px;
+  }
+}
