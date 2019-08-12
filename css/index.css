@@ -211,7 +211,7 @@ header section {
 }
 
 .header-section-1 ul li {
-	margin-bottom: 10px;
+	padding-bottom: 10px;
 }
 
 .header-section-1 nav a {
@@ -254,11 +254,12 @@ header section {
 
 .main-section section {
 	display: flex;
-	justify-content: space-between;
+  justify-content: space-between;
+  margin: 0 -10px;
 }
 
-.main-section article+article {
-	margin-left: 10px;
+.main-section article {
+	padding: 0 10px;
 }
 
 .main-section-1 {
