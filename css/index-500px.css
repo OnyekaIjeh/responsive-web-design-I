@@ -25,9 +25,6 @@
     display: block;
     width: 100%;
   }
-  .main-section article {
-    margin-bottom: 40px;
-  }
 
   /* services.html  */
   .services-list>* {

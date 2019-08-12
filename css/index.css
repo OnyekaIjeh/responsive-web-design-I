@@ -250,7 +250,7 @@ header section {
 
 .main-section {
 	width: 100%;
-	padding: 40px 0;
+	padding-top: 40px;
 	border-top: 2px solid black;
 	border-bottom: 2px solid black;
 }
@@ -263,6 +263,7 @@ header section {
 
 .main-section article {
 	padding: 0 10px;
+	margin-bottom: 40px;
 }
 
 .main-section-1 {
