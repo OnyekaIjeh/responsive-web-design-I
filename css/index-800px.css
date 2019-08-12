@@ -2,6 +2,7 @@
   header section {
     flex-wrap: wrap;
     justify-content: center;
+    text-align: center;
   }
   header section > * {
     display: block;
