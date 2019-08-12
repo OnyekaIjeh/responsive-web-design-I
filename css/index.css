@@ -248,8 +248,8 @@ header section {
 .main-section {
 	width: 100%;
 	padding: 40px 0;
-	border-top: 1px solid black;
-	border-bottom: 1px solid black;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
 }
 
 .main-section section {
