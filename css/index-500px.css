@@ -1,0 +1,46 @@
+@media (max-width: 500px) {
+  header {
+    padding: 0;
+  }
+  .header-section-1 ul {
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+  }
+  .header-section-1 ul li {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    border-top: 2px solid lightgrey;
+  }
+  .header-section-1 ul:last-child {
+    border-bottom: 2px solid lightgrey;
+  }
+  .main-section {
+    padding-bottom: 0;
+  }
+  .main-section section {
+    flex-wrap: wrap;
+  }
+  .main-section section>* {
+    display: block;
+    width: 100%;
+  }
+
+  /* services.html  */
+  .services-list>* {
+    width: 100%;
+  }
+  .sub-section>* {
+    width: 100%;
+  }
+  .sub-section-details {
+    order: 1;
+  }
+  .sub-section-images {
+    order: 0;
+  }
+  .services-info-img {
+    margin-bottom: 40px;
+  }
+}
